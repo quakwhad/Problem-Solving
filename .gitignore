@@ -31,3 +31,6 @@ bin/
 
 ### iml
 *.iml
+
+### memo
+memo.txt
